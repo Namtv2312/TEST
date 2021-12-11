@@ -72,7 +72,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "compressed.tracemonkey-pldi-09.pdf",
+    value: "http://index-of.es/Programming/tcp%20IP%20socket%20C%20programming.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
