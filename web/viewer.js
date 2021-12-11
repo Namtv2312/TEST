@@ -72,7 +72,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "http://index-of.es/Programming/tcp%20IP%20socket%20C%20programming.pdf",
+    value: "compressed.tracemonkey-pldi-09.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
@@ -116,7 +116,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   imageResourcesPath: {
-    value: "E:/pdf.js-gh-pages/pdf.js-gh-pages/web/images/",
+    value: "/web/images/",
     kind: OptionKind.VIEWER
   },
   maxCanvasPixels: {
